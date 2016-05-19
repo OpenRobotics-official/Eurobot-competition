@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=AX12RX Pin=MEGA3-5
+Added Pin To Net: NetName=AX12TX Pin=MEGA3-6
+Added Pin To Net: NetName=AX12RXEN Pin=MEGA4-20
+Added Pin To Net: NetName=AX12TXEN Pin=MEGA4-21

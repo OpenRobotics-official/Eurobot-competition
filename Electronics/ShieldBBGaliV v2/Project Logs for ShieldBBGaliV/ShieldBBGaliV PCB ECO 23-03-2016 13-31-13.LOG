@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AX12RX Pin=MEGA3-7
+Removed Pin From Net: NetName=AX12TX Pin=MEGA3-8
+Added Pin To Net: NetName=AX12RX Pin=MEGA3-3
+Added Pin To Net: NetName=AX12TX Pin=MEGA3-4

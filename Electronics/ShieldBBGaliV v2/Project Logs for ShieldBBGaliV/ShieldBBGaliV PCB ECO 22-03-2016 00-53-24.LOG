@@ -1,0 +1,9 @@
+Added Component: Designator=E1(22-03-2051)
+Added Pin To Net: NetName=5V Pin=E1-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=E1_IDX Pin=E1-5
+Added Pin To Net: NetName=E1_CHA Pin=E1-3
+Added Net: Name=E1_CHA
+Added Pin To Net: NetName=E1_CHB Pin=E1-4
+Added Net: Name=E1_CHB
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component E1 22-03-2051

@@ -1,0 +1,281 @@
+Removed Pin From Net: NetName=GND Pin=3V3-2
+Removed Pin From Net: NetName=GND Pin=3V3-4
+Removed Pin From Net: NetName=GND Pin=5V_Act-2
+Removed Pin From Net: NetName=GND Pin=5V_Act-5
+Removed Pin From Net: NetName=GND Pin=5V_Log-2
+Removed Pin From Net: NetName=GND Pin=5V_Log-5
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=CM-2
+Removed Pin From Net: NetName=GND Pin=CM-4
+Removed Pin From Net: NetName=GND Pin=CM-6
+Removed Pin From Net: NetName=GND Pin=CM-8
+Removed Pin From Net: NetName=GND Pin=CM-10
+Removed Pin From Net: NetName=GND Pin=CM-12
+Removed Pin From Net: NetName=GND Pin=CM-14
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=ICD-3
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=SW_3.3V-2
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=GND Pin=U4-14
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Pin From Net: NetName=GND Pin=U5-8
+Removed Pin From Net: NetName=GND Pin=U5-9
+Removed Member From Class: ClassName=IHM Member=AU
+Removed Member From Class: ClassName=IHM Member=BAT
+Removed Member From Class: ClassName=IHM Member=C13
+Removed Member From Class: ClassName=IHM Member=D1
+Removed Member From Class: ClassName=IHM Member=D2
+Removed Member From Class: ClassName=IHM Member=D3
+Removed Member From Class: ClassName=IHM Member=D4
+Removed Member From Class: ClassName=IHM Member=D5
+Removed Member From Class: ClassName=IHM Member=D6
+Removed Member From Class: ClassName=IHM Member=D7
+Removed Member From Class: ClassName=IHM Member=D8
+Removed Member From Class: ClassName=IHM Member=D9
+Removed Member From Class: ClassName=IHM Member=ICD
+Removed Member From Class: ClassName=IHM Member=M1
+Removed Member From Class: ClassName=IHM Member=M2
+Removed Member From Class: ClassName=IHM Member=R13
+Removed Member From Class: ClassName=IHM Member=R14
+Removed Member From Class: ClassName=IHM Member=R15
+Removed Member From Class: ClassName=IHM Member=R16
+Removed Member From Class: ClassName=IHM Member=R17
+Removed Member From Class: ClassName=IHM Member=R18
+Removed Member From Class: ClassName=IHM Member=R19
+Removed Member From Class: ClassName=IHM Member=SW_3.3V
+Removed Member From Class: ClassName=IHM Member=SW_5VAct
+Removed Member From Class: ClassName=IHM Member=SW_5VLog
+Removed Member From Class: ClassName=IHM Member=SW_MOT
+Removed Member From Class: ClassName=IHM Member=U4
+Removed Member From Class: ClassName=IHM Member=U5
+Removed Member From Class: ClassName=IHM Member=U6
+Change Component Comment : Designator=R12 Old Comment=2.9k New Comment=180
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=180
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=510
+Change Component Comment : Designator=R7 Old Comment=10k New Comment=510
+Change Component Comment : Designator=R11 Old Comment=10k New Comment=510
+Change Component Comment : Designator=R9 Old Comment=220 New Comment=510
+Change Component Comment : Designator=R1 Old Comment=480 New Comment=10k
+Added Component: Designator=AX12-1(22-03-2031)
+Added Component: Designator=AX12-2(22-03-2031)
+Added Component: Designator=C14(C_0805_N)
+Added Component: Designator=C19(C_0805_N)
+Added Component: Designator=C20(C_0805_N)
+Added Component: Designator=C21(C_0805_N)
+Added Component: Designator=C22(C_0805_N)
+Added Component: Designator=C54(C_0805_N)
+Added Component: Designator=C55(C_0805_N)
+Added Component: Designator=E1(22-03-2051)
+Added Component: Designator=E2(22-03-2051)
+Added Component: Designator=F?(MF-RHT200-0)
+Added Component: Designator=LA1(22-03-2031)
+Added Component: Designator=LA2(22-03-2031)
+Added Component: Designator=LA3(22-03-2031)
+Added Component: Designator=LA4(22-03-2031)
+Added Component: Designator=MEGA1(ESQ-110-14-G-S)
+Added Component: Designator=MEGA2(ESQ-108-14-G-S)
+Added Component: Designator=MEGA3(ESQ-108-14-G-S)
+Added Component: Designator=MEGA4(ESQ-118-14-G-D)
+Added Component: Designator=MEGA5(ESQ-108-14-G-S)
+Added Component: Designator=MEGA6(ESQ-108-14-G-S)
+Added Component: Designator=MEGA7(ESQ-108-14-G-S)
+Added Component: Designator=MX28-1(22-03-2031)
+Added Component: Designator=MX28-2(22-03-2031)
+Added Component: Designator=R23(CMS_0805)
+Added Component: Designator=R24(CMS_0805)
+Added Component: Designator=R25(CMS_0805)
+Added Component: Designator=R26(CMS_0805)
+Added Component: Designator=SW1(22-03-2021)
+Added Component: Designator=SW2(22-03-2021)
+Added Component: Designator=SW3(22-03-2021)
+Added Component: Designator=SW4(22-03-2021)
+Added Component: Designator=TRL(22-03-2061)
+Added Component: Designator=U7(DIP14)
+Added Pin To Net: NetName=GND Pin=AX12-1-3
+Added Pin To Net: NetName=GND Pin=AX12-2-3
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=GND Pin=E2-2
+Added Pin To Net: NetName=GND Pin=LA1-3
+Added Pin To Net: NetName=GND Pin=LA2-3
+Added Pin To Net: NetName=GND Pin=LA3-3
+Added Pin To Net: NetName=GND Pin=LA4-3
+Added Pin To Net: NetName=GND Pin=MEGA1-4
+Added Pin To Net: NetName=GND Pin=MEGA4-18
+Added Pin To Net: NetName=GND Pin=MEGA4-19
+Added Pin To Net: NetName=GND Pin=MEGA7-6
+Added Pin To Net: NetName=GND Pin=MEGA7-7
+Added Pin To Net: NetName=GND Pin=MX28-1-3
+Added Pin To Net: NetName=GND Pin=MX28-2-3
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=TRL-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=3.3V Pin=MEGA7-4
+Added Pin To Net: NetName=3.3V Pin=TRL-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=5V Pin=C54-2
+Added Pin To Net: NetName=5V Pin=C55-2
+Added Pin To Net: NetName=5V Pin=E2-1
+Added Pin To Net: NetName=5V Pin=MEGA7-5
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R23-1
+Added Pin To Net: NetName=5V Pin=R24-1
+Added Pin To Net: NetName=5V Pin=R25-1
+Added Pin To Net: NetName=5V Pin=R26-1
+Added Pin To Net: NetName=5V Pin=U7-14
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=AX12-1-2
+Added Pin To Net: NetName=12V Pin=AX12-2-2
+Added Pin To Net: NetName=12V Pin=F?-2
+Added Pin To Net: NetName=12V Pin=LA1-1
+Added Pin To Net: NetName=12V Pin=LA2-1
+Added Pin To Net: NetName=12V Pin=LA3-1
+Added Pin To Net: NetName=12V Pin=LA4-1
+Added Pin To Net: NetName=12V Pin=MX28-1-2
+Added Pin To Net: NetName=12V Pin=MX28-2-2
+Added Pin To Net: NetName=12V Pin=TRL-2
+Added Net: Name=12V
+Added Pin To Net: NetName=AX12_DATA Pin=AX12-1-1
+Added Pin To Net: NetName=AX12_DATA Pin=AX12-2-1
+Added Pin To Net: NetName=AX12_DATA Pin=MX28-1-1
+Added Pin To Net: NetName=AX12_DATA Pin=MX28-2-1
+Added Pin To Net: NetName=AX12_DATA Pin=R3-2
+Added Pin To Net: NetName=AX12_DATA Pin=U7-3
+Added Pin To Net: NetName=AX12_DATA Pin=U7-5
+Added Net: Name=AX12_DATA
+Added Pin To Net: NetName=AX12RXEN Pin=R2-2
+Added Pin To Net: NetName=AX12RXEN Pin=U7-4
+Added Net: Name=AX12RXEN
+Added Pin To Net: NetName=AX12RX Pin=R4-2
+Added Pin To Net: NetName=AX12RX Pin=U7-6
+Added Net: Name=AX12RX
+Added Pin To Net: NetName=AX12TXEN Pin=R1-2
+Added Pin To Net: NetName=AX12TXEN Pin=U7-1
+Added Net: Name=AX12TXEN
+Added Pin To Net: NetName=AX12TX Pin=U7-2
+Added Net: Name=AX12TX
+Added Pin To Net: NetName=E2_CHA Pin=E2-3
+Added Net: Name=E2_CHA
+Added Pin To Net: NetName=E2_CHB Pin=E2-4
+Added Net: Name=E2_CHB
+Added Pin To Net: NetName=LA1 Pin=R5-2
+Added Pin To Net: NetName=LA1 Pin=R6-1
+Added Net: Name=LA1
+Added Pin To Net: NetName=LA2 Pin=R7-2
+Added Pin To Net: NetName=LA2 Pin=R8-1
+Added Net: Name=LA2
+Added Pin To Net: NetName=LA3 Pin=R9-2
+Added Pin To Net: NetName=LA3 Pin=R10-1
+Added Net: Name=LA3
+Added Pin To Net: NetName=LA4 Pin=R11-2
+Added Pin To Net: NetName=LA4 Pin=R12-1
+Added Net: Name=LA4
+Added Pin To Net: NetName=NetLA1_2 Pin=LA1-2
+Added Pin To Net: NetName=NetLA1_2 Pin=R5-1
+Added Net: Name=NetLA1_2
+Added Pin To Net: NetName=NetLA2_2 Pin=LA2-2
+Added Pin To Net: NetName=NetLA2_2 Pin=R7-1
+Added Net: Name=NetLA2_2
+Added Pin To Net: NetName=NetLA3_2 Pin=LA3-2
+Added Pin To Net: NetName=NetLA3_2 Pin=R9-1
+Added Net: Name=NetLA3_2
+Added Pin To Net: NetName=NetLA4_2 Pin=LA4-2
+Added Pin To Net: NetName=NetLA4_2 Pin=R11-1
+Added Net: Name=NetLA4_2
+Added Pin To Net: NetName=RX_TRL Pin=TRL-3
+Added Net: Name=RX_TRL
+Added Pin To Net: NetName=SIG_TRL Pin=TRL-5
+Added Net: Name=SIG_TRL
+Added Pin To Net: NetName=SW1 Pin=C19-2
+Added Pin To Net: NetName=SW1 Pin=R23-2
+Added Pin To Net: NetName=SW1 Pin=SW1-1
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=C20-2
+Added Pin To Net: NetName=SW2 Pin=R24-2
+Added Pin To Net: NetName=SW2 Pin=SW2-1
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=C21-2
+Added Pin To Net: NetName=SW3 Pin=R25-2
+Added Pin To Net: NetName=SW3 Pin=SW3-1
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=C22-2
+Added Pin To Net: NetName=SW4 Pin=R26-2
+Added Pin To Net: NetName=SW4 Pin=SW4-1
+Added Net: Name=SW4
+Added Pin To Net: NetName=TX_TRL Pin=TRL-4
+Added Net: Name=TX_TRL
+Added Pin To Net: NetName=VBAT Pin=AU-1
+Added Pin To Net: NetName=VBAT Pin=BAT-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCARD Pin=AU-2
+Added Pin To Net: NetName=VCARD Pin=F?-1
+Added Net: Name=VCARD
+Change Class Name : Old Net Name=IHM New Net Name=ActionneursCapteurs
+Added Class: Name=Arduino
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component AX12-1 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component AX12-2 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C14 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C19 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C20 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C21 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C22 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C54 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component C55 100n
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component E1 22-03-2051
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component E2 22-03-2051
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component LA1 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component LA2 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component LA3 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component LA4 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component MX28-1 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component MX28-2 22-03-2031
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R1 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R2 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R3 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R4 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R5 510
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R23 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R24 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R25 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component R26 10k
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component SW1 22-03-2021
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component SW2 22-03-2021
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component SW3 22-03-2021
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component SW4 22-03-2021
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component TRL 22-03-2061
+Added Member To Class: ClassName=ActionneursCapteurs Member=Component U7 74HC125

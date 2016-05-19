@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=12V Pin=TRL-2
+Removed Pin From Net: NetName=RX_TRL Pin=TRL-3
+Added Pin To Net: NetName=RX_TRL Pin=MEGA3-3
+Added Pin To Net: NetName=RX_TRL Pin=TRL-2
+Added Pin To Net: NetName=12V Pin=TRL-5
+Change Net Name : Old Net Name=TX_TRL New Net Name=SIG_TRL
+Added Pin To Net: NetName=TX_TRL Pin=MEGA3-4
+Added Pin To Net: NetName=TX_TRL Pin=TRL-3
+Added Net: Name=TX_TRL

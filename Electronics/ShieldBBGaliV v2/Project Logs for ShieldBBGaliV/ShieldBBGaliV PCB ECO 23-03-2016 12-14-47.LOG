@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=12V Pin=LA1-1
+Removed Pin From Net: NetName=GND Pin=LA1-3
+Removed Pin From Net: NetName=12V Pin=LA2-1
+Removed Pin From Net: NetName=GND Pin=LA2-3
+Removed Pin From Net: NetName=12V Pin=LA3-1
+Removed Pin From Net: NetName=GND Pin=LA3-3
+Removed Pin From Net: NetName=12V Pin=LA4-1
+Removed Pin From Net: NetName=GND Pin=LA4-3
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=12V Pin=TRL-5
+Removed Pin From Net: NetName=GND Pin=TRL-6
+Removed Member From Class: ClassName=ActionneursCapteurs Member=LA1
+Removed Member From Class: ClassName=ActionneursCapteurs Member=LA2
+Removed Member From Class: ClassName=ActionneursCapteurs Member=LA3
+Removed Member From Class: ClassName=ActionneursCapteurs Member=LA4
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R5
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R6
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R7
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R8
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R9
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R10
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R11
+Removed Member From Class: ClassName=ActionneursCapteurs Member=R12
+Removed Member From Class: ClassName=ActionneursCapteurs Member=TRL
+Change Component Footprint: Designator=AU Old Footprint=MSTBV2 New Footprint=MSTBV2_90
+Change Component Footprint: Designator=BAT Old Footprint=MSTBV2 New Footprint=MSTBV2_90
+Added Pin To Net: NetName=5V Pin=MEGA7-5

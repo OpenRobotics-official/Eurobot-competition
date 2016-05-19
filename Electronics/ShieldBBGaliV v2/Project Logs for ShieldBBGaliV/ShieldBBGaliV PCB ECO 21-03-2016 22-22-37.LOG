@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=R25 Old DesignItemId=any New DesignItemId=R_trav
+Change Component Footprint: Designator=R25 Old Footprint=CMS_0805 New Footprint=R_250mW_trav
+Change Component Comment : Designator=R25 Old Comment=10k New Comment=R_trav
+Change Component Designator: OldDesignator=F? NewDesignator=F1

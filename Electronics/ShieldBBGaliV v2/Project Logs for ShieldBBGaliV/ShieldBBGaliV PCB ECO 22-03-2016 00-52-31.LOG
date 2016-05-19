@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=E1_IDX Pin=E1-5
+Added Net: Name=E1_IDX
+Added Pin To Net: NetName=E2_IDX Pin=E2-5
+Added Net: Name=E2_IDX

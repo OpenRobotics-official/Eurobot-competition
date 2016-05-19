@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SIG_TRL Pin=MEGA3-2
+Removed Pin From Net: NetName=RX_TRL Pin=MEGA3-3
+Removed Pin From Net: NetName=TX_TRL Pin=MEGA3-4
+Removed Pin From Net: NetName=AX12RX Pin=MEGA3-5
+Removed Pin From Net: NetName=AX12TX Pin=MEGA3-6
+Added Pin To Net: NetName=RX_TRL Pin=MEGA3-1
+Added Pin To Net: NetName=TX_TRL Pin=MEGA3-2
+Added Pin To Net: NetName=AX12RX Pin=MEGA3-3
+Added Pin To Net: NetName=AX12TX Pin=MEGA3-4

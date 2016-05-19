@@ -1,0 +1,9 @@
+Motors:
+Maxon :
+2A at 24V
+
+Brushless 1850Kv, 10A controller
+3A at 12V
+
+Servo library: esc control between 50 and 150 /179
+cutoff at 30 or less and 179. Brake levels: from low (50) => 93, from high (150) => 86

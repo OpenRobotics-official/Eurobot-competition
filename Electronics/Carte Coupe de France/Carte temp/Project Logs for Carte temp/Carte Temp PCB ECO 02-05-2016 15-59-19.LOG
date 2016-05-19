@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=C2-1
+Added Component: Designator=C3(C_5mm)
+Added Component: Designator=C4(C_5mm)
+Added Component: Designator=C9(C_5mm)
+Added Component: Designator=C10(C_5mm)
+Added Component: Designator=J23(22-03-2061)
+Added Component: Designator=J?(22-03-2061)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC3_1 Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=NetC4_1 Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=J?-6
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=J?-5
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=J23-6
+Added Pin To Net: NetName=NetC10_1 Pin=STD2-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=J23-5
+Added Pin To Net: NetName=NetC10_2 Pin=STD2-4
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetJ23_1 Pin=J23-1
+Added Pin To Net: NetName=NetJ23_1 Pin=STD2-12
+Added Net: Name=NetJ23_1
+Added Pin To Net: NetName=NetJ23_2 Pin=J23-2
+Added Pin To Net: NetName=NetJ23_2 Pin=STD2-10
+Added Net: Name=NetJ23_2
+Added Pin To Net: NetName=NetJ23_3 Pin=J23-3
+Added Pin To Net: NetName=NetJ23_3 Pin=STD2-8
+Added Net: Name=NetJ23_3
+Added Pin To Net: NetName=NetJ23_4 Pin=J23-4
+Added Pin To Net: NetName=NetJ23_4 Pin=STD2-6
+Added Net: Name=NetJ23_4
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=STD1-12
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=STD1-10
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=STD1-8
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=STD1-6
+Added Net: Name=NetJ?_4
+Added Member To Class: ClassName=Arduino Member=Component C3 47µF
+Added Member To Class: ClassName=Arduino Member=Component C4 47µF
+Added Member To Class: ClassName=Arduino Member=Component C9 47µF
+Added Member To Class: ClassName=Arduino Member=Component C10 47µF
+Added Member To Class: ClassName=Arduino Member=Component J23 22-03-2061
+Added Member To Class: ClassName=Arduino Member=Component J? 22-03-2061

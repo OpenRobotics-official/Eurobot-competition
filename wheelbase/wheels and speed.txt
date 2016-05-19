@@ -1,0 +1,2 @@
+Wheels are 7.3 cm large. To achieve 1.7 m/s max speed, the shaft must turn at 1400 rpm.
+If we use a Quanum MT Series 3510 360KV motor with a 4:1 reducer, the max speed would be 1.3 m/s which is desirable.

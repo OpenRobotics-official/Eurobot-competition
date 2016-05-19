@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCARD Pin=MEGA4-15
+Removed Pin From Net: NetName=VCARD Pin=MEGA4-36
+Removed Pin From Net: NetName=VCARD Pin=MEGA5-5
+Removed Pin From Net: NetName=VCARD Pin=MEGA7-4
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-8

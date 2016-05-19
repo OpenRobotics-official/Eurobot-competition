@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=E2_CHA Pin=MEGA3-5
+Removed Pin From Net: NetName=E2_CHB Pin=MEGA3-6
+Removed Pin From Net: NetName=E1_CHA Pin=MEGA3-7
+Removed Pin From Net: NetName=E1_CHB Pin=MEGA3-8
+Added Pin To Net: NetName=E1_CHA Pin=MEGA3-5
+Added Pin To Net: NetName=E1_CHB Pin=MEGA3-6
+Added Pin To Net: NetName=E2_CHB Pin=MEGA3-7
+Added Pin To Net: NetName=E2_CHA Pin=MEGA3-8

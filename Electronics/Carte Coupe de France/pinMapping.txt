@@ -1,0 +1,44 @@
+composant	pin comp	pin arduino
+
+stepper gauche	dir		41
+		step		43
+
+stepper droite	dir		37
+		step		39
+
+led red		+		52
+
+lcd		data7		45
+		data6		47
+		data5		49
+		data4		51
+		enable		53
+
+dip switch	1		36
+		2		38
+		3		40
+		4		42
+
+encodeur bas	X		21
+		A		20
+		B		19
+
+encodeur haut	X		18
+		A		2
+		B		3
+
+capteur		1		A5
+		2		A4
+		3		A3
+		4		A2
+		5		A1
+		6		A0
+
+servo-moteur	1		9
+		2		10
+		3		11
+		5		13
+
+
+
+Virage 90deg: 365 steps

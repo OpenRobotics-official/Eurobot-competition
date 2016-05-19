@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=LA3 Pin=MEGA5-3
+Added Pin To Net: NetName=LA2 Pin=MEGA5-5
+Added Pin To Net: NetName=LA1 Pin=MEGA5-7
+Added Pin To Net: NetName=LA4 Pin=MEGA5-1
+Added Net: Name=LA4
