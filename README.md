@@ -1,6 +1,6 @@
 # Eurobot-competition
 
-We are a team of 9 students of ECE Paris school of Engineering, building an Open Source platform for competition robots. We will attend Eurobot France, Germany and UK. Give us some feedback !
+We are a team of 9 students from ECE Paris school of Engineering, building an Open Source platform for competition robots. We will attend Eurobot France, Germany and UK. Give us some feedback !
 
 ## Usage and translation
 
